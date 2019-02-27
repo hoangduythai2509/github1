@@ -1,0 +1,27 @@
+F:\c#\Demo2048\Demo\bin\Debug\Demo.exe.config
+F:\c#\Demo2048\Demo\obj\Debug\Demo.exe
+F:\c#\Demo2048\Demo\obj\Debug\Demo.pdb
+F:\c#\Demo2048\Demo\bin\Debug\Demo.exe
+F:\c#\Demo2048\Demo\bin\Debug\Demo.pdb
+F:\c#\Demo2048\Demo\obj\Debug\Demo2048.csprojResolveAssemblyReference.cache
+F:\c#\Demo2048\Demo\obj\Debug\Demo.Form1.resources
+F:\c#\Demo2048\Demo\obj\Debug\Demo.Properties.Resources.resources
+F:\c#\Demo2048\Demo\obj\Debug\Demo2048.csproj.GenerateResource.Cache
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\bin\Debug\Demo.exe.config
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo.exe
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo.pdb
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\bin\Debug\Demo.exe
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\bin\Debug\Demo.pdb
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo2048.csprojResolveAssemblyReference.cache
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Demon Silver Eyes\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo2048.csproj.GenerateResource.Cache
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\bin\Debug\Demo.exe.config
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\obj\Debug\Demo.exe
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\obj\Debug\Demo.pdb
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\obj\Debug\Demo2048.csprojResolveAssemblyReference.cache
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\obj\Debug\Demo2048.csproj.GenerateResource.Cache
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\bin\Debug\Demo.exe
+C:\Users\Demon Silver Eyes\Desktop\github1\Demo2048\Demo\bin\Debug\Demo.pdb
